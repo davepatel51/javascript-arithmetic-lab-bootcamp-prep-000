@@ -15,8 +15,8 @@ function divide(a, b) {
 }
 
 
-var n = 0;
-function increment(){
+var n = 560;
+function inc(){
   n++;
   return n;
 }    
